@@ -1,0 +1,9 @@
+<!-- 用时类型 Selector_UseTimeType -->
+<?xml version="1.0" encoding="utf-8" ?>
+<Selector>
+  <Container PageSize="10" RowNumVisible="true">
+  <Column Caption="系统编号" Field="SysID" Width="100" Align="center" Fixed="left" Visible="false" />
+    <Column Caption="编号" Field="Code" Width="100" Align="center" Fixed="left" Visible="true" />
+    <Column Caption="名称" Field="Name" Width="200" Align="left" Visible="true" />
+  </Container>
+</Selector>
